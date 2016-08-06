@@ -9,6 +9,10 @@ import static org.junit.Assert.*;
 import org.junit.Before;
 import org.junit.Test;
 
+import hotel.Animal;
+import hotel.Hotel;
+import hotel.Recepcao;
+
 public class PetShopTest {
 
 	private Hotel hotel;
