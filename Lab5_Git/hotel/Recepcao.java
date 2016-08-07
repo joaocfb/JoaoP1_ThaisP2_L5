@@ -1,4 +1,4 @@
-// João Carlos F. 114210795. UFCG 2016
+// Joï¿½o Carlos F. 114210795. UFCG 2016
 package hotel;
 import java.util.ArrayList;
 
@@ -41,7 +41,7 @@ public class Recepcao {
 	public String toString() {
 		System.out.println("Estadias:");
 		for (Estadia estadias2 : estadias) {
-			System.out.printf("%s (%s): %i dias com o preço de R$ %.2f",
+			System.out.printf("%s (%s): %i dias com o preï¿½o de R$ %.2f",
 					estadias2.getNome(), estadias2.getTipo(), estadias2.getDias(), estadias2.getValor());
 		}
 	}
