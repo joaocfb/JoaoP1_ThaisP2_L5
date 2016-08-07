@@ -10,6 +10,7 @@ import org.junit.Before;
 import org.junit.Test;
 
 import hotel.Animal;
+import hotel.Estadia;
 import hotel.Hotel;
 import hotel.Recepcao;
 

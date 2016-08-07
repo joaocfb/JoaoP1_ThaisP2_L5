@@ -1,4 +1,4 @@
-// Jo�o Carlos F. 114210795. UFCG 2016
+// Joao Carlos F. 114210795. UFCG 2016
 package hotel;
 
 public class Hotel {
